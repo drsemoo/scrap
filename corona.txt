@@ -1,0 +1,215 @@
+1-USA confirmed:1,770,306 active:1,168,179 Death:103,365 Recovered:498,762 Critical:17,202 Today-cases:1,845 Today-death:35
+2-Brazil confirmed:438,812 active:218,867 Death:26,764 Recovered:193,181 Critical:8,318 Today-cases:0 Today-death:0
+3-Russia confirmed:387,623 active:223,992 Death:4,374 Recovered:159,257 Critical:2,300 Today-cases:8,572 Today-death:232
+4-Spain confirmed:284,986 active:60,909 Death:27,119 Recovered:196,958 Critical:854 Today-cases:0 Today-death:0
+5-UK confirmed:269,127 active:0 Death:37,837 Recovered:0 Critical:1,559 Today-cases:0 Today-death:0
+6-Italy confirmed:231,732 active:47,986 Death:33,142 Recovered:150,604 Critical:489 Today-cases:0 Today-death:0
+7-France confirmed:186,238 active:90,385 Death:28,662 Recovered:67,191 Critical:1,429 Today-cases:0 Today-death:0
+8-Germany confirmed:182,495 active:9,821 Death:8,574 Recovered:164,100 Critical:744 Today-cases:43 Today-death:4
+9-India confirmed:167,451 active:91,244 Death:4,797 Recovered:71,410 Critical:8,944 Today-cases:2,065 Today-death:86
+10-Turkey confirmed:160,979 active:32,149 Death:4,461 Recovered:124,369 Critical:683 Today-cases:0 Today-death:0
+11-Iran confirmed:146,668 active:24,060 Death:7,677 Recovered:114,931 Critical:2,547 Today-cases:2,819 Today-death:50
+12-Peru confirmed:141,779 active:78,238 Death:4,099 Recovered:59,442 Critical:926 Today-cases:0 Today-death:0
+13-Canada confirmed:88,512 active:34,795 Death:6,877 Recovered:46,840 Critical:1,613 Today-cases:0 Today-death:0
+14-Chile confirmed:86,943 active:49,903 Death:890 Recovered:36,150 Critical:1,289 Today-cases:0 Today-death:0
+15-China confirmed:82,995 active:70 Death:4,634 Recovered:78,291 Critical:4 Today-cases:0 Today-death:0
+16-Saudi Arabia confirmed:81,766 active:24,295 Death:458 Recovered:57,013 Critical:384 Today-cases:1,581 Today-death:17
+17-Mexico confirmed:81,400 active:15,718 Death:9,044 Recovered:56,638 Critical:378 Today-cases:3,377 Today-death:447
+18-Pakistan confirmed:64,028 active:40,406 Death:1,317 Recovered:22,305 Critical:111 Today-cases:2,801 Today-death:57
+19-Belgium confirmed:58,061 active:32,949 Death:9,430 Recovered:15,682 Critical:187 Today-cases:212 Today-death:42
+20-Qatar confirmed:52,907 active:32,267 Death:36 Recovered:20,604 Critical:216 Today-cases:1,993 Today-death:3
+21-Netherlands confirmed:46,126 active:0 Death:5,931 Recovered:0 Critical:182 Today-cases:176 Today-death:28
+22-Bangladesh confirmed:42,844 active:33,247 Death:582 Recovered:9,015 Critical:1 Today-cases:2,523 Today-death:23
+23-Belarus confirmed:40,764 active:23,150 Death:224 Recovered:17,390 Critical:92 Today-cases:906 Today-death:5
+24-Ecuador confirmed:38,471 active:16,733 Death:3,313 Recovered:18,425 Critical:220 Today-cases:0 Today-death:0
+25-Sweden confirmed:36,476 active:27,155 Death:4,350 Recovered:4,971 Critical:289 Today-cases:749 Today-death:84
+26-Singapore confirmed:33,860 active:15,543 Death:23 Recovered:18,294 Critical:7 Today-cases:611 Today-death:0
+27-UAE confirmed:33,170 active:15,813 Death:260 Recovered:17,097 Critical:1 Today-cases:638 Today-death:2
+28-Portugal confirmed:31,946 active:11,652 Death:1,383 Recovered:18,911 Critical:66 Today-cases:350 Today-death:14
+29-Switzerland confirmed:30,828 active:609 Death:1,919 Recovered:28,300 Critical:32 Today-cases:32 Today-death:0
+30-South Africa confirmed:27,403 active:12,456 Death:577 Recovered:14,370 Critical:128 Today-cases:0 Today-death:0
+31-Colombia confirmed:25,366 active:17,879 Death:822 Recovered:6,665 Critical:136 Today-cases:0 Today-death:0
+32-Indonesia confirmed:25,216 active:17,204 Death:1,520 Recovered:6,492 Critical:0 Today-cases:678 Today-death:24
+33-Ireland confirmed:24,841 active:1,113 Death:1,639 Recovered:22,089 Critical:47 Today-cases:0 Today-death:0
+34-Kuwait confirmed:24,112 active:15,229 Death:185 Recovered:8,698 Critical:197 Today-cases:0 Today-death:0
+35-Poland confirmed:22,964 active:11,229 Death:1,043 Recovered:10,692 Critical:160 Today-cases:139 Today-death:5
+36-Ukraine confirmed:22,811 active:13,198 Death:679 Recovered:8,934 Critical:267 Today-cases:429 Today-death:10
+37-Egypt confirmed:20,793 active:14,589 Death:845 Recovered:5,359 Critical:41 Today-cases:0 Today-death:0
+38-Romania confirmed:18,982 active:4,913 Death:1,240 Recovered:12,829 Critical:182 Today-cases:191 Today-death:5
+39-Israel confirmed:16,887 active:1,876 Death:284 Recovered:14,727 Critical:37 Today-cases:15 Today-death:0
+40-Japan confirmed:16,683 active:1,669 Death:867 Recovered:14,147 Critical:136 Today-cases:0 Today-death:0
+41-Austria confirmed:16,655 active:640 Death:668 Recovered:15,347 Critical:25 Today-cases:27 Today-death:0
+42-Dominican Republic confirmed:16,068 active:6,631 Death:485 Recovered:8,952 Critical:123 Today-cases:0 Today-death:0
+43-Philippines confirmed:15,588 active:11,069 Death:921 Recovered:3,598 Critical:81 Today-cases:0 Today-death:0
+44-Argentina confirmed:14,702 active:9,577 Death:508 Recovered:4,617 Critical:171 Today-cases:0 Today-death:0
+45-Afghanistan confirmed:13,659 active:12,154 Death:246 Recovered:1,259 Critical:19 Today-cases:623 Today-death:11
+46-Panama confirmed:12,131 active:4,432 Death:320 Recovered:7,379 Critical:72 Today-cases:0 Today-death:0
+47-Denmark confirmed:11,593 active:785 Death:568 Recovered:10,240 Critical:18 Today-cases:81 Today-death:0
+48-S. Korea confirmed:11,402 active:770 Death:269 Recovered:10,363 Critical:15 Today-cases:58 Today-death:0
+49-Serbia confirmed:11,354 active:4,588 Death:242 Recovered:6,524 Critical:8 Today-cases:54 Today-death:1
+50-Bahrain confirmed:10,352 active:4,846 Death:15 Recovered:5,491 Critical:9 Today-cases:300 Today-death:0
+51-Kazakhstan confirmed:9,932 active:4,884 Death:37 Recovered:5,011 Critical:62 Today-cases:356 Today-death:0
+52-Oman confirmed:9,820 active:7,384 Death:40 Recovered:2,396 Critical:31 Today-cases:811 Today-death:0
+53-Czechia confirmed:9,143 active:2,360 Death:319 Recovered:6,464 Critical:19 Today-cases:3 Today-death:0
+54-Algeria confirmed:8,997 active:3,090 Death:630 Recovered:5,277 Critical:32 Today-cases:0 Today-death:0
+55-Nigeria confirmed:8,915 active:6,064 Death:259 Recovered:2,592 Critical:7 Today-cases:0 Today-death:0
+56-Armenia confirmed:8,676 active:5,259 Death:120 Recovered:3,297 Critical:10 Today-cases:460 Today-death:7
+57-Norway confirmed:8,411 active:448 Death:236 Recovered:7,727 Critical:8 Today-cases:0 Today-death:0
+58-Bolivia confirmed:8,387 active:7,356 Death:293 Recovered:738 Critical:3 Today-cases:619 Today-death:13
+59-Malaysia confirmed:7,732 active:1,382 Death:115 Recovered:6,235 Critical:8 Today-cases:103 Today-death:0
+60-Moldova confirmed:7,725 active:3,320 Death:282 Recovered:4,123 Critical:256 Today-cases:0 Today-death:0
+61-Morocco confirmed:7,697 active:2,272 Death:202 Recovered:5,223 Critical:1 Today-cases:54 Today-death:0
+62-Ghana confirmed:7,616 active:5,161 Death:34 Recovered:2,421 Critical:17 Today-cases:313 Today-death:0
+63-Australia confirmed:7,173 active:488 Death:103 Recovered:6,582 Critical:4 Today-cases:23 Today-death:0
+64-Finland confirmed:6,776 active:962 Death:314 Recovered:5,500 Critical:10 Today-cases:33 Today-death:1
+65-Iraq confirmed:5,457 active:2,307 Death:179 Recovered:2,971 Critical:41 Today-cases:0 Today-death:0
+66-Cameroon confirmed:5,436 active:3,265 Death:175 Recovered:1,996 Critical:28 Today-cases:0 Today-death:0
+67-Azerbaijan confirmed:4,759 active:1,681 Death:56 Recovered:3,022 Critical:42 Today-cases:0 Today-death:0
+68-Honduras confirmed:4,752 active:4,037 Death:196 Recovered:519 Critical:13 Today-cases:112 Today-death:2
+69-Guatemala confirmed:4,348 active:3,703 Death:80 Recovered:565 Critical:5 Today-cases:203 Today-death:12
+70-Sudan confirmed:4,346 active:3,402 Death:195 Recovered:749 Critical:0 Today-cases:0 Today-death:0
+71-Luxembourg confirmed:4,008 active:95 Death:110 Recovered:3,803 Critical:4 Today-cases:0 Today-death:0
+72-Hungary confirmed:3,841 active:1,300 Death:517 Recovered:2,024 Critical:24 Today-cases:25 Today-death:8
+73-Tajikistan confirmed:3,563 active:1,842 Death:47 Recovered:1,674 Critical:0 Today-cases:0 Today-death:0
+74-Guinea confirmed:3,553 active:1,581 Death:22 Recovered:1,950 Critical:24 Today-cases:0 Today-death:0
+75-Uzbekistan confirmed:3,468 active:731 Death:14 Recovered:2,723 Critical:7 Today-cases:24 Today-death:0
+76-Senegal confirmed:3,429 active:1,650 Death:41 Recovered:1,738 Critical:18 Today-cases:81 Today-death:2
+77-Thailand confirmed:3,076 active:74 Death:57 Recovered:2,945 Critical:59 Today-cases:11 Today-death:0
+78-Djibouti confirmed:2,914 active:1,653 Death:20 Recovered:1,241 Critical:0 Today-cases:0 Today-death:0
+79-Greece confirmed:2,906 active:1,357 Death:175 Recovered:1,374 Critical:16 Today-cases:0 Today-death:0
+80-DRC confirmed:2,833 active:2,364 Death:69 Recovered:400 Critical:0 Today-cases:173 Today-death:0
+81-Ivory Coast confirmed:2,641 active:1,283 Death:32 Recovered:1,326 Critical:0 Today-cases:0 Today-death:0
+82-Bosnia and Herzegovina confirmed:2,485 active:529 Death:153 Recovered:1,803 Critical:4 Today-cases:23 Today-death:0
+83-Bulgaria confirmed:2,485 active:1,333 Death:136 Recovered:1,016 Critical:22 Today-cases:8 Today-death:2
+84-Gabon confirmed:2,431 active:1,749 Death:14 Recovered:668 Critical:15 Today-cases:0 Today-death:0
+85-El Salvador confirmed:2,278 active:1,221 Death:42 Recovered:1,015 Critical:30 Today-cases:84 Today-death:3
+86-Croatia confirmed:2,245 active:83 Death:103 Recovered:2,059 Critical:4 Today-cases:0 Today-death:1
+87-North Macedonia confirmed:2,129 active:487 Death:126 Recovered:1,516 Critical:21 Today-cases:52 Today-death:5
+88-Cuba confirmed:1,983 active:167 Death:82 Recovered:1,734 Critical:2 Today-cases:0 Today-death:0
+89-Estonia confirmed:1,859 active:182 Death:67 Recovered:1,610 Critical:0 Today-cases:8 Today-death:1
+90-Somalia confirmed:1,828 active:1,446 Death:72 Recovered:310 Critical:2 Today-cases:0 Today-death:0
+91-Iceland confirmed:1,805 active:1 Death:10 Recovered:1,794 Critical:0 Today-cases:0 Today-death:0
+92-Mayotte confirmed:1,670 active:334 Death:21 Recovered:1,315 Critical:10 Today-cases:0 Today-death:0
+93-Kyrgyzstan confirmed:1,662 active:558 Death:16 Recovered:1,088 Critical:4 Today-cases:68 Today-death:0
+94-Lithuania confirmed:1,662 active:378 Death:68 Recovered:1,216 Critical:17 Today-cases:6 Today-death:0
+95-Kenya confirmed:1,618 active:1,139 Death:58 Recovered:421 Critical:7 Today-cases:0 Today-death:0
+96-Sri Lanka confirmed:1,530 active:766 Death:10 Recovered:754 Critical:1 Today-cases:0 Today-death:0
+97-Slovakia confirmed:1,520 active:154 Death:28 Recovered:1,338 Critical:0 Today-cases:0 Today-death:0
+98-Maldives confirmed:1,513 active:1,311 Death:5 Recovered:197 Critical:9 Today-cases:0 Today-death:0
+99-New Zealand confirmed:1,504 active:1 Death:22 Recovered:1,481 Critical:0 Today-cases:0 Today-death:0
+100-Slovenia confirmed:1,473 active:8 Death:108 Recovered:1,357 Critical:2 Today-cases:0 Today-death:0
+101-Haiti confirmed:1,443 active:1,386 Death:35 Recovered:22 Critical:0 Today-cases:123 Today-death:1
+102-Venezuela confirmed:1,325 active:1,012 Death:11 Recovered:302 Critical:4 Today-cases:0 Today-death:0
+103-Equatorial Guinea confirmed:1,306 active:1,094 Death:12 Recovered:200 Critical:0 Today-cases:263 Today-death:0
+104-Nepal confirmed:1,212 active:1,000 Death:6 Recovered:206 Critical:0 Today-cases:170 Today-death:1
+105-Guinea-Bissau confirmed:1,195 active:1,145 Death:8 Recovered:42 Critical:0 Today-cases:0 Today-death:0
+106-Mali confirmed:1,194 active:470 Death:72 Recovered:652 Critical:0 Today-cases:0 Today-death:0
+107-Lebanon confirmed:1,172 active:441 Death:26 Recovered:705 Critical:7 Today-cases:4 Today-death:0
+108-Albania confirmed:1,099 active:215 Death:33 Recovered:851 Critical:5 Today-cases:23 Today-death:0
+109-Hong Kong confirmed:1,080 active:41 Death:4 Recovered:1,035 Critical:1 Today-cases:13 Today-death:0
+110-Tunisia confirmed:1,071 active:77 Death:48 Recovered:946 Critical:2 Today-cases:3 Today-death:0
+111-Latvia confirmed:1,064 active:295 Death:24 Recovered:745 Critical:3 Today-cases:3 Today-death:0
+112-Zambia confirmed:1,057 active:271 Death:7 Recovered:779 Critical:1 Today-cases:0 Today-death:0
+113-Costa Rica confirmed:1,000 active:344 Death:10 Recovered:646 Critical:2 Today-cases:0 Today-death:0
+114-South Sudan confirmed:994 active:978 Death:10 Recovered:6 Critical:0 Today-cases:0 Today-death:0
+115-Ethiopia confirmed:968 active:763 Death:8 Recovered:197 Critical:4 Today-cases:137 Today-death:1
+116-Niger confirmed:955 active:88 Death:64 Recovered:803 Critical:0 Today-cases:0 Today-death:0
+117-Cyprus confirmed:941 active:140 Death:17 Recovered:784 Critical:4 Today-cases:0 Today-death:0
+118-Paraguay confirmed:900 active:487 Death:11 Recovered:402 Critical:1 Today-cases:0 Today-death:0
+119-Burkina Faso confirmed:847 active:75 Death:53 Recovered:719 Critical:0 Today-cases:0 Today-death:0
+120-Sierra Leone confirmed:812 active:406 Death:45 Recovered:361 Critical:0 Today-cases:0 Today-death:0
+121-Uruguay confirmed:811 active:135 Death:22 Recovered:654 Critical:5 Today-cases:0 Today-death:0
+122-Andorra confirmed:763 active:31 Death:51 Recovered:681 Critical:3 Today-cases:0 Today-death:0
+123-Nicaragua confirmed:759 active:354 Death:35 Recovered:370 Critical:0 Today-cases:0 Today-death:0
+124-CAR confirmed:755 active:731 Death:1 Recovered:23 Critical:0 Today-cases:0 Today-death:0
+125-Georgia confirmed:746 active:158 Death:12 Recovered:576 Critical:6 Today-cases:8 Today-death:0
+126-Jordan confirmed:728 active:222 Death:9 Recovered:497 Critical:5 Today-cases:0 Today-death:0
+127-Chad confirmed:726 active:248 Death:65 Recovered:413 Critical:0 Today-cases:0 Today-death:0
+128-Diamond Princess confirmed:712 active:48 Death:13 Recovered:651 Critical:4 Today-cases:0 Today-death:0
+129-Madagascar confirmed:698 active:529 Death:5 Recovered:164 Critical:9 Today-cases:42 Today-death:3
+130-San Marino confirmed:671 active:285 Death:42 Recovered:344 Critical:1 Today-cases:1 Today-death:0
+131-Malta confirmed:616 active:94 Death:8 Recovered:514 Critical:1 Today-cases:0 Today-death:1
+132-Congo confirmed:571 active:391 Death:19 Recovered:161 Critical:0 Today-cases:0 Today-death:0
+133-Jamaica confirmed:569 active:276 Death:9 Recovered:284 Critical:2 Today-cases:0 Today-death:0
+134-Channel Islands confirmed:560 active:3 Death:45 Recovered:512 Critical:0 Today-cases:0 Today-death:0
+135-Tanzania confirmed:509 active:305 Death:21 Recovered:183 Critical:7 Today-cases:0 Today-death:0
+136-Réunion confirmed:465 active:53 Death:1 Recovered:411 Critical:1 Today-cases:0 Today-death:0
+137-Sao Tome and Principe confirmed:458 active:378 Death:12 Recovered:68 Critical:0 Today-cases:0 Today-death:0
+138-Palestine confirmed:446 active:75 Death:3 Recovered:368 Critical:0 Today-cases:0 Today-death:0
+139-Taiwan confirmed:442 active:15 Death:7 Recovered:420 Critical:0 Today-cases:1 Today-death:0
+140-French Guiana confirmed:436 active:274 Death:1 Recovered:161 Critical:2 Today-cases:0 Today-death:0
+141-Togo confirmed:422 active:212 Death:13 Recovered:197 Critical:0 Today-cases:0 Today-death:0
+142-Cabo Verde confirmed:390 active:231 Death:4 Recovered:155 Critical:0 Today-cases:0 Today-death:0
+143-Rwanda confirmed:349 active:104 Death:0 Recovered:245 Critical:0 Today-cases:0 Today-death:0
+144-Mauritania confirmed:346 active:312 Death:19 Recovered:15 Critical:0 Today-cases:0 Today-death:0
+145-Isle of Man confirmed:336 active:6 Death:24 Recovered:306 Critical:2 Today-cases:0 Today-death:0
+146-Mauritius confirmed:334 active:2 Death:10 Recovered:322 Critical:0 Today-cases:0 Today-death:0
+147-Vietnam confirmed:327 active:48 Death:0 Recovered:279 Critical:1 Today-cases:0 Today-death:0
+148-Montenegro confirmed:324 active:0 Death:9 Recovered:315 Critical:0 Today-cases:0 Today-death:0
+149-Uganda confirmed:317 active:248 Death:0 Recovered:69 Critical:0 Today-cases:0 Today-death:0
+150-Eswatini confirmed:279 active:109 Death:2 Recovered:168 Critical:0 Today-cases:0 Today-death:0
+151-Yemen confirmed:278 active:210 Death:57 Recovered:11 Critical:0 Today-cases:0 Today-death:0
+152-Liberia confirmed:269 active:98 Death:27 Recovered:144 Critical:0 Today-cases:0 Today-death:0
+153-Mozambique confirmed:233 active:149 Death:2 Recovered:82 Critical:0 Today-cases:0 Today-death:0
+154-Benin confirmed:224 active:85 Death:3 Recovered:136 Critical:0 Today-cases:14 Today-death:0
+155-Myanmar confirmed:206 active:74 Death:6 Recovered:126 Critical:0 Today-cases:0 Today-death:0
+156-Malawi confirmed:203 active:157 Death:4 Recovered:42 Critical:1 Today-cases:0 Today-death:0
+157-Martinique confirmed:197 active:92 Death:14 Recovered:91 Critical:0 Today-cases:0 Today-death:0
+158-Faeroe Islands confirmed:187 active:0 Death:0 Recovered:187 Critical:0 Today-cases:0 Today-death:0
+159-Mongolia confirmed:179 active:136 Death:0 Recovered:43 Critical:11 Today-cases:18 Today-death:0
+160-Gibraltar confirmed:161 active:13 Death:0 Recovered:148 Critical:0 Today-cases:3 Today-death:0
+161-Guadeloupe confirmed:161 active:32 Death:14 Recovered:115 Critical:3 Today-cases:0 Today-death:0
+162-Guyana confirmed:150 active:72 Death:11 Recovered:67 Critical:2 Today-cases:0 Today-death:0
+163-Zimbabwe confirmed:149 active:117 Death:4 Recovered:28 Critical:0 Today-cases:0 Today-death:0
+164-Brunei confirmed:141 active:1 Death:2 Recovered:138 Critical:2 Today-cases:0 Today-death:0
+165-Bermuda confirmed:140 active:39 Death:9 Recovered:92 Critical:2 Today-cases:0 Today-death:0
+166-Cayman Islands confirmed:140 active:72 Death:1 Recovered:67 Critical:0 Today-cases:0 Today-death:0
+167-Cambodia confirmed:124 active:2 Death:0 Recovered:122 Critical:1 Today-cases:0 Today-death:0
+168-Syria confirmed:122 active:75 Death:4 Recovered:43 Critical:0 Today-cases:0 Today-death:0
+169-Trinidad and Tobago confirmed:116 active:0 Death:8 Recovered:108 Critical:0 Today-cases:0 Today-death:0
+170-Libya confirmed:105 active:59 Death:5 Recovered:41 Critical:0 Today-cases:0 Today-death:0
+171-Aruba confirmed:101 active:0 Death:3 Recovered:98 Critical:0 Today-cases:0 Today-death:0
+172-Bahamas confirmed:101 active:43 Death:11 Recovered:47 Critical:1 Today-cases:1 Today-death:0
+173-Monaco confirmed:98 active:4 Death:4 Recovered:90 Critical:2 Today-cases:0 Today-death:0
+174-Barbados confirmed:92 active:9 Death:7 Recovered:76 Critical:1 Today-cases:0 Today-death:0
+175-Comoros confirmed:87 active:61 Death:2 Recovered:24 Critical:0 Today-cases:0 Today-death:0
+176-Liechtenstein confirmed:82 active:26 Death:1 Recovered:55 Critical:0 Today-cases:0 Today-death:0
+177-Sint Maarten confirmed:77 active:2 Death:15 Recovered:60 Critical:1 Today-cases:0 Today-death:0
+178-Angola confirmed:74 active:52 Death:4 Recovered:18 Critical:0 Today-cases:0 Today-death:0
+179-French Polynesia confirmed:60 active:0 Death:0 Recovered:60 Critical:0 Today-cases:0 Today-death:0
+180-Macao confirmed:45 active:0 Death:0 Recovered:45 Critical:0 Today-cases:0 Today-death:0
+181-Burundi confirmed:42 active:21 Death:1 Recovered:20 Critical:0 Today-cases:0 Today-death:0
+182-Saint Martin confirmed:40 active:4 Death:3 Recovered:33 Critical:1 Today-cases:0 Today-death:0
+183-Eritrea confirmed:39 active:0 Death:0 Recovered:39 Critical:0 Today-cases:0 Today-death:0
+184-Botswana confirmed:35 active:14 Death:1 Recovered:20 Critical:0 Today-cases:0 Today-death:0
+185-Bhutan confirmed:31 active:25 Death:0 Recovered:6 Critical:0 Today-cases:0 Today-death:0
+186-Antigua and Barbuda confirmed:25 active:3 Death:3 Recovered:19 Critical:1 Today-cases:0 Today-death:0
+187-Gambia confirmed:25 active:5 Death:1 Recovered:19 Critical:0 Today-cases:0 Today-death:0
+188-St. Vincent Grenadines confirmed:25 active:11 Death:0 Recovered:14 Critical:0 Today-cases:0 Today-death:0
+189-Timor-Leste confirmed:24 active:0 Death:0 Recovered:24 Critical:0 Today-cases:0 Today-death:0
+190-Grenada confirmed:23 active:5 Death:0 Recovered:18 Critical:4 Today-cases:0 Today-death:0
+191-Namibia confirmed:23 active:9 Death:0 Recovered:14 Critical:0 Today-cases:1 Today-death:0
+192-Laos confirmed:19 active:3 Death:0 Recovered:16 Critical:0 Today-cases:0 Today-death:0
+193-New Caledonia confirmed:19 active:1 Death:0 Recovered:18 Critical:0 Today-cases:0 Today-death:0
+194-Belize confirmed:18 active:0 Death:2 Recovered:16 Critical:0 Today-cases:0 Today-death:0
+195-Curaçao confirmed:18 active:3 Death:1 Recovered:14 Critical:0 Today-cases:0 Today-death:0
+196-Fiji confirmed:18 active:3 Death:0 Recovered:15 Critical:0 Today-cases:0 Today-death:0
+197-Saint Lucia confirmed:18 active:0 Death:0 Recovered:18 Critical:0 Today-cases:0 Today-death:0
+198-Dominica confirmed:16 active:0 Death:0 Recovered:16 Critical:0 Today-cases:0 Today-death:0
+199-Saint Kitts and Nevis confirmed:15 active:0 Death:0 Recovered:15 Critical:0 Today-cases:0 Today-death:0
+200-Falkland Islands confirmed:13 active:0 Death:0 Recovered:13 Critical:0 Today-cases:0 Today-death:0
+201-Greenland confirmed:13 active:2 Death:0 Recovered:11 Critical:0 Today-cases:0 Today-death:0
+202-Suriname confirmed:12 active:2 Death:1 Recovered:9 Critical:0 Today-cases:0 Today-death:0
+203-Turks and Caicos confirmed:12 active:1 Death:1 Recovered:10 Critical:0 Today-cases:0 Today-death:0
+204-Vatican City confirmed:12 active:10 Death:0 Recovered:2 Critical:0 Today-cases:0 Today-death:0
+205-Montserrat confirmed:11 active:0 Death:1 Recovered:10 Critical:0 Today-cases:0 Today-death:0
+206-Seychelles confirmed:11 active:0 Death:0 Recovered:11 Critical:0 Today-cases:0 Today-death:0
+207-MS Zaandam confirmed:9 active:7 Death:2 Recovered:0 Critical:0 Today-cases:0 Today-death:0
+208-Western Sahara confirmed:9 active:2 Death:1 Recovered:6 Critical:0 Today-cases:0 Today-death:0
+209-British Virgin Islands confirmed:8 active:0 Death:1 Recovered:7 Critical:0 Today-cases:0 Today-death:0
+210-Papua New Guinea confirmed:8 active:0 Death:0 Recovered:8 Critical:0 Today-cases:0 Today-death:0
+211-Caribbean Netherlands confirmed:6 active:0 Death:0 Recovered:6 Critical:0 Today-cases:0 Today-death:0
+212-St. Barth confirmed:6 active:0 Death:0 Recovered:6 Critical:0 Today-cases:0 Today-death:0
+213-Anguilla confirmed:3 active:0 Death:0 Recovered:3 Critical:0 Today-cases:0 Today-death:0
+214-Lesotho confirmed:2 active:1 Death:0 Recovered:1 Critical:0 Today-cases:0 Today-death:0
+215-Saint Pierre Miquelon confirmed:1 active:0 Death:0 Recovered:1 Critical:0 Today-cases:0 Today-death:0

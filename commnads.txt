@@ -1,0 +1,441 @@
+    1  apt-get update
+    2  sudo apt-get update
+    3  apt list --installed
+    4  python
+    5  python3
+    6  sudo apt-get install GUFW
+    7  sudo apt-get install gufw
+    8  gufw
+    9  sudo apt-get install apache2
+   10  ifconfig
+   11  curl ifconfig.me
+   12  sudo apt-get install curl
+   13  curl ifconfig.me
+   14  ifconfig
+   15  ipconfig
+   16  sudo apt install net-tools
+   17  ipconfig
+   18  ifconfig
+   19  sudo add-apt-repository ppa:noobslab/apps
+   20  sudo apt-get update
+   21  sudo apt-get install xdman
+   22  sudo apt-get install multiget
+   23  code
+   24  sudo ./install.sh 
+   25  whois
+   26  sudo apt install whois
+   27  wget
+   28  ps -ax
+   29  ps
+   30  ps f
+   31  clang
+   32  javac
+   33  sudo ./idea.sh 
+   34  ps 
+   35  jobs
+   36  sleep 10
+   37  kkdk
+   38  whois ptfacebook.com
+   39  whois loky4.com
+   40  whois wix.com
+   41  apt-get install python3-pip
+   42  sudo apt-get install python3-pip
+   43  sudo apt install default-jdk  
+   44  sudo apt install openjdk-11-jdk-headless
+   45  sudo apt install ecj       
+   46  sudo apt install openjdk-8-jdk-headless 
+   47  javac
+   48  java
+   49  ls
+   50  cd ~/.config/JetBrains/IdeaIC2020.1
+   51  ls
+   52  ls -alh
+   53  cd ./config
+   54  ls
+   55  ls -al
+   56  cd .config/
+   57  ls
+   58  cd JetBrains/
+   59  ls
+   60  cd IdeaIC2020.1/
+   61  ls
+   62  cd options/
+   63  ls
+   64  cd ..
+   65  nano idea.properties
+   66  ./idea.sh
+   67  cd
+   68  cd .config/
+   69  cd JetBrains/
+   70  cd IdeaIC2020.1/
+   71  ls
+   72  ccd workspace/
+   73  ls
+   74  cd workspace/
+   75  ls
+   76  cd ..
+   77  cd tasks/
+   78  ls
+   79  cd ..
+   80  cd
+   81  cd /etc/
+   82  ls
+   83  nano environment 
+   84  sudo nano environment 
+   85  ls
+   86  idea
+   87  sudo idea
+   88  sudo apt install gcc
+   89  sudo apt install clang
+   90  sudo apt install mingw-w64
+   91  sudo apt install codeblocks
+   92  cd /etc/default/grub
+   93  cd /etc/default/
+   94  ls
+   95  sudo nano grub
+   96  update-grub
+   97  sudo update-grub
+   98  exit
+   99  sudo swapoff -a && systemctl poweroff
+  100  sudo shutdown -h now
+  101  sudo apt-get update
+  102  sudo pip install
+  103  sudo pip3 install django
+  104  sudo pip3 install requests
+  105  sudo pip3 install beautifullsoup4
+  106  sudo pip3 install bs4
+  107  sudo pip3 install django-crisy-forms
+  108  sudo pip3 install django-crispy-forms
+  109  sudo pip3 install pillow
+  110  sudo pip3 install numpy
+  111  sudo pip3 install jupyterlab
+  112  sudo pip3 install pandas
+  113  idea
+  114  sudo idea
+  115  jupyter-notebook
+  116  codeblocks
+  117  ps -a
+  118  ps 
+  119  ps -f
+  120  ps f
+  121  ps f |less
+  122  killall
+  123  killall -u tag
+  124  codeblocks
+  125  exit
+  126  netstate
+  127  netstat -a
+  128  ps
+  129  ps -f
+  130  ps -ax
+  131  netstat -a
+  132  netstat 
+  133  netstat -ax
+  134  netstat -?
+  135  netstat -an
+  136  ssh root@52.34.225.215
+  137  ssh -i "s.pem" root@52.34.225.215
+  138  ssh root@52.34.225.215
+  139  whois 52.34.225.215
+  140  codeblock
+  141  codeblocks
+  142  sudo apt-get update
+  143  service list
+  144  service --help
+  145  service --list-all
+  146  service --status-all
+  147  ufw status
+  148  sudo ufw status
+  149  gufw
+  150  sudo apt-get install node
+  151  sudo apt-get install nodejs
+  152  node
+  153  npm install -g react
+  154  find
+  155  find node
+  156  cd /
+  157  cd usr
+  158  cd local
+  159  ls
+  160  cd lib
+  161  ls
+  162  cd ..
+  163  cd sbin
+  164  ls
+  165  cd ..
+  166  ls
+  167  cd lib
+  168  ls
+  169  cd nodejs/
+  170  ls
+  171  cd..
+  172  cd ..
+  173  ls
+  174  cd python3.8
+  175  ls
+  176  cd ..
+  177  cd bin
+  178  ls
+  179  cd ..
+  180  find npm
+  181  systemctl list-units --type service
+  182  systemd --help
+  183  systemd list-units
+  184  systemctl list-units --type active
+  185  systemctl list-units --type ?
+  186  systemctl list-units --help
+  187  systemctl list-units --all
+  188  systemctl list-units --type service
+  189  netstat -an
+  190  netstat -anp
+  191  netstat -f
+  192  netstat -n
+  193  netstat -nl
+  194  netstat -nx
+  195  netstat -n
+  196  ip address show
+  197  ip address show wlp4s0
+  198  ip
+  199  ip maddress 
+  200  ip tcp_metrics
+  201  ping wix.com
+  202  sudo  ip tcp_metrics flush all
+  203  ip tcp_metrics
+  204  ssh root@35.222.85.5
+  205  ssh -i *.pem  root@35.222.85.5
+  206  ip tcp_metrics
+  207  ip tcp_metrics >~/tcp2.txt
+  208  whois 5.100.248.152
+  209  whois 5.100.248.152 >~/ise.txt
+  210  whois 5.100.248.152 >~/ise_spy.txt
+  211  touch ~/whoisinfo.txt
+  212  ssh root@5.100.248.152
+  213  exit
+  214  ip tcp_metrics 
+  215  code .
+  216  ip tcp_metrics 
+  217  curl ifconfig.me
+  218  ip tcp_metrics 
+  219  whois kamatera.com
+  220  fuck you 
+  221  you did not sent any code
+  222  ip tcp_metrics >~/new_tcp.txt
+  223  ip tcp_metrics 
+  224  sudo  ip tcp_metrics flush all
+  225  ip tcp_metrics 
+  226  sudo  ip tcp_metrics flush all
+  227  ip tcp_metrics 
+  228  whois 35.222.85.5
+  229  whois akamai.com
+  230  whois kamatera.com
+  231  whois 35.222.85.5
+  232  whois 5.100.248.152
+  233  sudo  ip tcp_metrics flush all
+  234  ip tcp_metrics 
+  235  sudo gufw
+  236  ip tcp_metrics 
+  237  ip tcp_metrics >~/all_isr.txt
+  238  sudo  ip tcp_metrics flush all
+  239  ip tcp_metrics 
+  240  sudo gufw allow 80
+  241  ip tcp_metrics 
+  242  sudo  ip tcp_metrics flush all
+  243  ip tcp_metrics 
+  244  sudo  ip tcp_metrics flush all
+  245  ip tcp_metrics 
+  246  sudo  ip tcp_metrics flush all
+  247  ip tcp_metrics 
+  248  sudo  ip tcp_metrics flush all
+  249  netstat -a
+  250  ip tcp_metrics 
+  251  sudo  ip tcp_metrics flush all
+  252  ip tcp_metrics 
+  253  sudo apt-get update
+  254  sudo apt-get upgrade
+  255  swapoff -a
+  256  sudo swapoff -a
+  257  sudo poweroff
+  258  code .
+  259  ip tcp_metrics 
+  260  gufw
+  261  ip tcp_metrics 
+  262  sudo  ip tcp_metrics flush all
+  263  ip tcp_metrics 
+  264  python
+  265  python isrfxi.py 
+  266  python3 isrfxi.py 
+  267  gufw
+  268  ip tcp_metrics 
+  269  systemctl list-units --type service
+  270  iptables -L -n
+  271  sudo iptables -L -n
+  272  netstat -a
+  273  ip tcp_metrics 
+  274  ping snapcraft.io
+  275  ping api.snapcraft.io
+  276  ip tcp_metrics 
+  277  ip tcp_metrics >~/ss25.txt
+  278  ping wix.com
+  279  ip tcp_metrics 
+  280  ip tcp_metrics >~/ss26.txt
+  281  whois wix.com
+  282  ip tcp_metrics 
+  283  ip tcp_metrics >~/ss26u.txt
+  284  ping youtube.com
+  285  ip tcp_metrics 
+  286  host google.com
+  287  host youtube.com
+  288  host wix.com
+  289  host akamai.com
+  290  host whatismyipaddress.com
+  291  host --help
+  292  host -4 google.com
+  293  host -4 amazon.com
+  294  host -4 microsoft.com
+  295  nmap
+  296  sudo apt-get install namp
+  297  sudo namp
+  298  sudo apt  install nmap
+  299  sudo apt  download nmap
+  300  sudo namp -F 45.33.6.32
+  301  namp
+  302  sudo apt-get update
+  303  namp
+  304  sudo apt  install nmap
+  305  sudo apt list --installed
+  306  sudo apt list --installed |grep nmap
+  307  host ptfacebook.com
+  308  ping ptfacebook.com
+  309  sudo ping ptfacebook.com
+  310  ping google.com
+  311  ping ptfacebook.com
+  312  host ptfacebook.com
+  313  ping ptfacebook.com
+  314  host ptfacebook.com
+  315  host -4 ptfacebook.com
+  316  host www.ptfacebook.com
+  317  namp
+  318  cd /
+  319  ls
+  320  cd bin
+  321  ls
+  322  cd ..
+  323  ls
+  324  cd etc
+  325  ls
+  326  cd..
+  327  cd ..
+  328  ls
+  329  cd sbin
+  330  ls
+  331  cd ..
+  332  cd usr
+  333  cd bin
+  334  ls
+  335  lp
+  336  zip
+  337  cd ..
+  338  ls
+  339  cd sbin
+  340  ls
+  341  cd ..
+  342  cd local/
+  343  ls
+  344  cd bin/
+  345  ls
+  346  cd ..
+  347  ls
+  348  cd sbin/
+  349  ls
+  350  cd ..
+  351  ls
+  352  cd ..
+  353  cd
+  354  ls
+  355  ls -al
+  356  cd .local/
+  357  ls
+  358  cd share/
+  359  ls
+  360  cd ,,
+  361  cd 
+  362  find nmap
+  363  nmap
+  364  nmap -F 45.33.6.32
+  365  nmap -F 5.100.248.152
+  366  host wix.com
+  367  nmap -F 185.230.63.164
+  368  host www.ptfacebook.com
+  369  sudo apt-get udate
+  370  sudo apt-get update
+  371  netstat  -tuna
+  372  whois 91.189.88.152
+  373  ip addr
+  374  nmap -F 127.0.0.1
+  375  ufw 
+  376  ufw -p 631 deny
+  377  ufw deny 631
+  378  sudo ufw deny 631
+  379  ufw status
+  380  sudo ufw status
+  381  nmap -F 127.0.0.1
+  382  ps -f
+  383  top
+  384  netstat -a
+  385  netstat -tuna
+  386  nmap -F 127.0.0.1
+  387  nmap  127.0.0.1
+  388  service ipp stop
+  389  systemctl stop ipp
+  390  systemd --help
+  391  systemd --show-status
+  392* 
+  393  kill ipp
+  394  fg
+  395  bg
+  396  jobs
+  397  kill -p 631
+  398  sudo lsof -i :631
+  399  kill -9 945
+  400  sudo kill -9 945
+  401  sudo kill -9 901
+  402  sudo lsof -i :631
+  403  sudo lsof -i :3138
+  404  sudo lsof -i :631
+  405  sudo kill -9 3138
+  406  sudo lsof -i :631
+  407  sudo kill -a 3156
+  408  sudo kill -L 3156
+  409  sudo kill -19 3156
+  410  sudo lsof -i :631
+  411  sudo nc localhost 631
+  412  sudo lsof -i :631
+  413  sudo kill 3156
+  414  sudo lsof -i :631
+  415  sudo netstat -ap | grep :631
+  416  sudo lsof -i :631
+  417  netdscover
+  418  sudo apt-get install netdiscover
+  419  netdscover
+  420  netdiscover
+  421  sudo netdiscover -r 192.168.1.0\24
+  422  sudo nc 192.168.1.1 60000
+  423  ls
+  424  sudo nc 192.168.1.1 60000
+  425  ifconfig
+  426  nc 
+  427  sudo netdiscover -r 192.168.1.0\24
+  428  sudo lsof -i :631
+  429  netstat -tunalp
+  430  sudo lsof -i :41974
+  431  sudo lsof -i : 41974
+  432  sudo lsof -i :41974
+  433  iptables - L
+  434  iptables -L
+  435  sudo iptables -L
+  436  ip_metrics
+  437  ip_meterics
+  438  ip tcp_metrics 
+  439  ip tcp_metrics >tcp_metrics_27-5.txt
+  440  history >commnads
+  441  history >commnads.txt
